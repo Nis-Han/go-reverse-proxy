@@ -1,0 +1,5 @@
+[
+    { "path": "/app1", "target": "http://localhost:3001" },
+    { "path": "/app2", "target": "http://localhost:3002" }
+  ]
+  
